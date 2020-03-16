@@ -1,9 +1,9 @@
 # Ekaterina Kozhenkova
 
-*Email:* ekozhenkova88@gmail.com
+*Email:* ekozhenkova88@gmail.com  
 *Phone:* 8(912)440-11-41
 
-**Objective:** a junior developer position with an IT company to use my skills and learn new 
+**Objective:** A junior developer position with an IT company to use my skills and learn new 
 
 technology as well.
 
