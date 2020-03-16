@@ -19,3 +19,5 @@ technology as well.
    * HTML Academy courses, 2019
    * Udemy course "Modern JavaScript from scratch on real projects", 2019
    * Faculty of Civil Engineering, Kalashnikov Izhevsk State Technical University, Izhevsk, 2010
+   
+**English:** Institute of Professional Translation, program «Translator in the Sphere of Professional Communication», Kalashnikov Izhevsk State Technical University, Izhevsk, 2010
